@@ -1,0 +1,23 @@
+pdf-articles-platform/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── uploads/
+├── includes/
+│   ├── config.php
+│   ├── database.php
+│   └── functions.php
+├── classes/
+│   ├── User.php
+│   ├── Article.php
+│   └── PdfProcessor.php
+├── templates/
+│   ├── header.php
+│   ├── footer.php
+│   └── nav.php
+└── pages/
+    ├── index.php
+    ├── login.php
+    ├── register.php
+    ├── upload.php
+    └── articles.php
